@@ -9,7 +9,7 @@ namespace DisableRevenge {
         
         public override string Name => "DisableRevenge";
 
-        public override string Author => "Neoslyke, Soofa)";
+        public override string Author => "Neoslyke, Soofa";
         public override Version Version => new Version(2, 1, 0);
 
         public override string Description => "Disables mobs picking up coins.";
